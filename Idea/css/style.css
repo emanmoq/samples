@@ -1,0 +1,351 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    color:white;
+    margin:0 auto;
+
+    font-size:21px;
+
+}
+.background{ 
+    margin:0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../img/hero.png");
+    width:100%;
+    height:auto;
+    position: relative;
+    padding-bottom: 180px;
+}
+.head{
+    padding-top: 30px;
+    width:100%;
+    height:auto;
+    position: fixed;
+    z-index: 99999;
+}
+.logo{
+    padding-left:30px;
+    width:10%;
+    float:left;
+}
+.menu{
+    width:7%;
+    float:right;
+}
+.btn{
+    text-decoration: none;
+    color:white;
+}
+.menu a i{
+    width:24px;
+    height:24px;
+    color:white;
+}
+.clear{
+    clear:both;
+}
+.sec{
+    background-image: none;
+    background-color:#f1f1f1;
+    padding-bottom: 100px;
+}
+.secbody{
+    padding-top:80px;
+    width:100%;
+    height:auto;
+    text-align: left;
+}
+.secimg{
+    padding:0;
+    margin:0;
+    width:50%;
+    height:auto;
+    margin-left:0;
+    float:left;
+}
+.secimg img{
+width:500px;
+height: auto;
+    
+}
+.par{
+    text-align: center;
+    
+}
+.par h1{
+    text-align: center;
+    margin: 0;
+font-size:54pt;
+padding-bottom: 30px;
+
+}
+.par p{
+    width:450px;
+    margin:0 auto;
+    font-size:14pt;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+.btn{
+    font-size:14pt;
+    text-decoration: none;
+    color:white;
+    padding:12px 20px;
+    border: 1.5px solid white;
+}
+.dots{
+    width:5%;
+    height: auto;
+    position: fixed;
+    right: 20px;
+    z-index: 99999;
+    top: 40%;
+}
+.dots a{
+    text-decoration: none;
+    color:#b2b5bb;  
+}
+.dots a i{
+    font-size:6px;
+    display: block;
+    padding-top:5px;
+}
+.dots a i:hover{
+    color:white;
+}
+.black{
+    color:black;
+}
+.secpar{
+    float:left;
+    width:50%;
+    height: auto;
+    text-align: left
+}
+.sec head menu a i{
+    color:black;
+}
+.secbtn{
+    border: 1.5px solid black;
+
+}
+.secbody p{
+    text-align: left;
+    margin:0;
+    margin-bottom:30px;
+
+}
+.thsec{
+    background-image: url("../img/seabg.png");
+}
+.thbody{
+    
+    width:800px;
+    height:auto;
+    text-align: center;
+    margin: 0 auto;
+    padding-top:100px;
+}
+.iphone{
+    width:50%;
+    height: auto;
+    float:right;
+    text-align: right;
+}
+.thpar{
+    width:50%;
+    float:left;
+    text-align: left;
+}
+.thpar p{
+    
+    font-size: 10pt;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+}
+.thpar h2{
+    font-family: "Montserrat", sans-serif;
+    font-size:40pt;
+    font-weight: bold;
+}
+.forth{
+    background-color: #323c6d;
+}
+.fourthbody{
+    
+    margin:0 auto;
+    width:800px;
+    height: auto;
+    padding-top:150px;
+}
+.rightsec{
+    width:50%;
+    height: auto;
+    float:right;
+}
+.leftsec{
+    width:50%;
+    height: auto;
+    float:left;
+}
+.firstsec{
+    width:50%;
+    float:left;
+}
+.secondsec{
+    width:50%;
+    float:right;
+
+}
+.firstsec p {
+    font-size:10pt;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+.secondsec p{
+    font-size:10pt;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+.leftsec h3{
+    font-size: 26pt;
+    margin:0;
+    text-align: left;
+}
+.icons{
+    margin:0 auto;
+    margin-top:100px;
+    width:100%;
+    height: auto;
+    text-align: center;
+    float:left
+}
+.icontitle{
+    width:15%;
+    height: auto;
+    float:left;
+}
+.iconimg a{
+text-decoration: none;
+color:white;
+
+}
+.iconimg a img{
+    width:30px;
+    height: 30px;
+}
+.iconspan{
+    margin-top:10px;
+    font-size:8pt;
+    text-align: center;
+
+}
+.last{
+    background-image: url("../img/footerbg.png")
+}
+.Footerbody{
+    margin:0 auto;
+    padding-top:100px;
+    width:800px;
+    height: auto;
+}
+.leftfooter{
+    width:320px;
+    height:auto;
+    float:left;
+}
+.leftfooter h3{
+    font-size:26pt;
+}
+.leftfooter p{
+    font-size:9pt;
+}
+.innerleft{
+    width:50%;
+    height: auto;
+    float:left;
+}
+.innerleft span{
+font-size:8pt;
+}
+.innerright{
+    width:50%;
+    height: auto;
+    float:left;
+}
+.innerright span{
+font-size:8pt;
+}
+.socialicon span{
+    font-size:8pt;
+    display: block;
+}
+.socialicon{
+    width:100%;
+    height:auto;
+    float:left;
+}
+.socialicon a{
+    text-decoration:none;
+    color:white;
+    width:25%;
+    height:auto;
+}
+.socialicon a i{
+font-size:11px;
+padding-right:10px;
+}
+.rightfooter{
+    width:50%;
+    height:auto;
+    margin-top: 84px;
+    float:right;
+}
+.formsec{
+    width: 100%;
+    height:auto;
+}
+.inputname{
+    float:left;
+    width:32%;
+    margin-left:5px;
+    
+}
+.inputname input ,.Message textarea{
+    width:90%;
+    border:0;
+    border-bottom: 1px solid rgba(250,250,250,.5);
+    background: none;
+}
+.inputname input:last-child{
+    width:100%;
+}
+
+.Message textarea{
+    width:100%;
+}
+.Message{
+    width:100%;
+    border:0;
+    margin-top: 75px;
+    
+    float: left;
+    /* border-bottom: 1px solid rgba(250,250,250,.5); */
+    background: none;
+}
+.fbtn{
+    margin-top:20px;
+    display: inline-block;
+    margin-left:50%;
+
+}
+.fbtn a{
+    font-size:8pt;
+    padding:5px 10px;
+    background-color:white;
+    text-decoration: none;
+    color:black;
+    border-radius:20px;
+
+}

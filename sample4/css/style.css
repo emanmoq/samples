@@ -1,0 +1,246 @@
+body{
+    margin:0 auto;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+
+}
+.background{ 
+    margin:0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../img/background.png");
+    width:100%;
+    height:350px;
+    padding-bottom: 180px;
+}
+.par{
+    margin-top:50px;
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+.par h1{
+    text-align: center;
+    margin: 0;
+font-size:50pt;
+padding-bottom: 150px;
+
+}
+.par p{
+    font-size:12pt;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+
+}
+.btn{
+    font-size:16pt;
+    text-decoration: none;
+    color:white;
+    padding:12px 20px;
+    border: 1.5px solid white;
+
+}
+
+.clear{clear:both;}
+.container{
+    
+    width:1100px;
+    height: auto;
+    margin:0 auto;
+    padding-top: 50px;
+}
+.logo{
+    float:left;
+    width:20%;
+    height:auto;
+}
+.menu{
+    width:60%;
+    height: auto;
+    float:right;
+}
+.menu nav ul {
+    display: inline-block;
+    float: right;
+}
+.menu nav ul li a{
+    text-decoration:none;
+    color:white;
+}
+.menu nav ul li{
+    display:inline-block;
+    padding-left:50px;
+}
+.whitebg{
+    background-color:white;
+    color:black;
+    padding:50px 0 100px 0;
+}
+.leftside{
+    width:60%;
+    float:left;
+    height:auto;
+}
+.leftside h2,.graysecr h2{
+    margin:0;
+    font-size:54pt;
+float:left;
+}
+.light{
+    display: inline-block;
+    font-weight: lighter;
+}
+.leftside p ,graysecr p{
+    color:#929292;
+    font-size:14pt;
+    text-align: left;
+}
+.rightside{
+    text-align: right;
+    width:40%;
+    height:auto;
+    float:right;
+}
+.gray{
+    background-color: #fafafa;
+
+}
+.graysecr{
+    text-align: left;
+    width:60%;
+}
+.graysecl{
+    width:40%;
+}
+.services{
+    float:left;
+    width:100%;
+    height:auto;
+}
+.iconsdesc{
+    width: 45%;
+    height:auto;
+    float:left;
+    margin-left:40px;
+    margin-bottom: 70px;
+}
+.iconsdesc:nth-child(odd){
+    margin-left:0;
+}
+.icons{
+    width:20%;
+    float:left;
+    height:auto;
+    padding-right:20px;
+}
+.icons a{
+text-decoration:none;
+text-align: center;
+}
+.icons a i{
+line-height: 75px;
+font-size:45px;
+color:white;
+background-color:black;
+width:75px;
+height:75px;
+border-radius: 50%;
+}
+.desc{
+    width:70%;
+    height: auto;
+    float:left;
+}
+ .desc p{
+    color:#929292;
+    font-size:14pt;
+    text-align: left;
+margin:0;
+display: inline-block;
+padding-top:20px;
+}
+.desc h4{
+    display: inline-block;
+margin:0;
+    font-size:20pt;
+}
+.logos{
+    width:100%;
+    height:auto;
+    float:left;
+}
+.blogo{
+    width:25%;
+    height: auto;
+    float:left;
+}
+.blogo a{
+    text-decoration: none;
+}
+.sayhello{
+    width:50%;
+    height:auto;
+    float:left;
+    margin-bottom:50px;
+}
+.blue{
+    background-color: #7690c5;
+    color:white;
+    height:auto;
+    padding-bottom:50px;
+}
+.hello h2{
+    margin:0;
+    font-size:44pt;
+   float:left;
+}
+.hello p{
+    margin:0;
+}
+.sociacont{
+    font-size:16pt;
+    padding-top: 50px;
+    width:100%;
+    height: auto;
+    float:left;
+}
+.social{
+    width:50%;
+    height:auto;
+    float:left;
+}
+.social a{
+text-decoration: none;
+color:white;
+display:inline-block;
+}
+.social p{
+    font-size:12pt;
+    margin-left:20px;
+    display:inline-block;
+}
+.formsec{
+    float:left;
+    width:40%;
+    height:auto;
+    margin-left: 82px;
+    margin-top: 27px;
+}
+.form{
+    width:100%;
+}
+.input input{
+width:100%;
+height:50px;
+border:0;
+border-radius:5px;
+margin-bottom: 10px;
+}
+textarea{
+    width:100%;
+    height: 200px;
+}
+.rights{
+    margin-top:100px;
+    margin-left:30%;
+}
